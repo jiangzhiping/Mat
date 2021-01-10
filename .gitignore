@@ -1,0 +1,11 @@
+
+.vs/Mat/v16/.suo
+*.db
+*.db-shm
+*.db-wal
+*.ipch
+*.lastbuildstate
+*.opendb
+*.tlog
+*.idb
+*.pdb
